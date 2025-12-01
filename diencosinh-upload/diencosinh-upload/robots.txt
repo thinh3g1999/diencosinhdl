@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://diencosinh.netlify.app/sitemap.xml
